@@ -19,13 +19,13 @@ https://devds.site/api/indihoy/hls.m3u8?ch=net
 http://mpwtv.my.id/vidioye/733-trans.m3u8
 http://210.210.155.35:80/qwr9ew/s/s05/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_big1.png" group-title="TV Lokal", TRANS TV
-https://ezstat.ru/useetranstv.m3u
+https://devds.site/api/indihoy/hls.m3u8?ch=transtv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_big1.png" group-title="TV Lokal", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_big1.png" group-title="TV Lokal", TRANS7
 http://mpwtv.my.id/vidioye/734-trans7.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_big1.png" group-title="TV Lokal", TRANS7
-https://ezstat.ru/useetrans7.m3u
+https://devds.site/api/indihoy/hls.m3u8?ch=trans7
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_big1.png" group-title="TV Lokal", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
@@ -40,12 +40,12 @@ http://210.210.155.35:80/uq2663/h/h12/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_big1.png" group-title="TV Lokal", METRO TV
 https://geocities.ws/ariev7xx/metrotv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_big1.png" group-title="TV Lokal", METRO TV
-https://ezstat.ru/useemetrotv.m3u
+https://devds.site/api/indihoy/hls.m3u8?ch=metrotv
 http://210.210.155.35/uq2663/h/h12/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_big.png" group-title="TV Lokal", KOMPAS TV
 http://210.210.155.35:80/qwr9ew/s/s104/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_big.png" group-title="TV Lokal", KOMPAS TV
-https://geocities.ws/ariev7xx/kompastv.m3u8
+https://devds.site/api/indihoy/hls.m3u8?ch=kompastv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_big.png" group-title="TV Lokal", KOMPAS TV
 https://ezstat.ru/useekompastv.m3u
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8
@@ -70,11 +70,12 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_beritasatu_big1.png" group-title="TV Lokal", BERITA SATU
 https://devds.site/api/indihoy/hls.m3u8?ch=beritasatu
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal", ANTV
+https://cdn09jtedge.indihometv.com/atemedvr/1673276941/0/ANTV_AT/ANTV_AT.mpd
 http://210.210.155.37:80/qwr9ew/s/s07/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal", ANTV
 https://geocities.ws/ariev7xx/antv.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="TV Lokal", ANTV
-https://ezstat.ru/useeantvHD.m3u
+https://ezstat.ru/useeantvHD
 https://devds.site/api/v.m3u8?ch=antv
 http://210.210.155.37:80/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_big1.png" group-title="TV Lokal", INDOSIAR
@@ -104,29 +105,29 @@ http://portal.geniptv.com:8080/1greenpoison8A19a/GZAsd2aADSdfsaNABH/62243
 #EXTINF: -1 tvg-logo="https://images.useetv.com/assets/logo_gtv_hd.png" group-title="TV Lokal", GTV
 http://www.goldentv.tech:25461/Angga12/Angga12/25667
 #EXTINF: -1 tvg-logo="https://images.useetv.com/assets/logo_gtv_hd.png" group-title="TV Lokal", GTV
-https://ezstat.ru/liveglobaltv.m3u
+https://ezstat.ru/liveglobaltv
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_inews_big.png" group-title="TV Lokal", iNews
 https://devds.site/api/indihoy/hls.m3u8?ch=inews
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_inews_big.png" group-title="TV Lokal", iNews
-https://yip.su/useeinews.m3u
+https://yip.su/useeinews
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_inews_big.png" group-title="TV Lokal", iNews
-https://ezstat.ru/liveinews.m3u
+https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_big.png" group-title="TV Lokal", MNC News
 https://devds.site/api/indihoy/hls.m3u8?ch=mncnews
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_big.png" group-title="TV Lokal", MNC News
-https://yip.su/useemncnews.m3u
+https://yip.su/useemncnews
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_big1.png" group-title="TV Lokal", JakTv
 https://devds.site/api/indihoy/hls.m3u8?ch=jaktv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jaktv_big1.png" group-title="TV Lokal", JakTv
-https://yip.su/useejaktv.m3u
+https://yip.su/useejaktv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
-https://ezstat.ru/useebalitv.m3u
+https://cdn09jtedge.indihometv.com/atemedvr/1672742389/0/BALITV_AT/BALITV_AT.mpd
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_balitv_big1.png" group-title="TV Lokal", Bali Tv
-https://ezstat.ru/useebalitv.m3u?
+https://ezstat.ru/useebalitv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="TV Lokal", SEA Today
-https://ezstat.ru/useeseatoday.m3u
+https://cdn09jtedge.indihometv.com/dvr/139/seatoday/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="TV Lokal", SEA Today
-https://ezstat.ru/useeseatoday.m3u?
+https://ezstat.ru/useeseatoday
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_big1.png" group-title="TV Lokal", RTV
 http://210.210.155.37:80/dr9445/h/h10/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_big1.png" group-title="TV Lokal", RTV
@@ -135,23 +136,23 @@ http://210.210.155.37:80/dr9445/h/h10/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_big1.png" group-title="TV Lokal", JTV
 https://devds.site/api/indihoy/hls.m3u8?ch=jtv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_big1.png" group-title="TV Lokal", JTV
-https://yip.su/useejtv.m3u
+https://yip.su/useejtv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_idx_big.png" group-title="TV Lokal", IDX
 https://devds.site/api/indihoy/hls.m3u8?ch=idx
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_idx_big.png" group-title="TV Lokal", IDX
-https://yip.su/useeidx.m3u
+https://yip.su/useeidx
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_antara_big1.png" group-title="TV Lokal", Antara Tv
 https://devds.site/api/indihoy/hls.m3u8?ch=antara
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_antara_big1.png" group-title="TV Lokal", Antara Tv
-https://yip.su/useeantaratv.m3u
+https://yip.su/useeantaratv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_atv_small.png" group-title="TV Lokal", ATV
 https://devds.site/api/indihoy/hls.m3u8?ch=atv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_atv_small.png" group-title="TV Lokal", ATV
-https://ezstat.ru/useeatv.m3u
+https://ezstat.ru/useeatv
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rri_big1.png" group-title="TV Lokal", RRI Net
 https://devds.site/api/indihoy/hls.m3u8?ch=rrinet
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rri_big1.png" group-title="TV Lokal", RRI Net
-https://yip.su/useerrinet.m3u
+https://yip.su/useerrinet
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_nusantaratv_big.png" group-title="TV Lokal", Nusantara Tv
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_nusantaratv_big.png" group-title="TV Lokal", Nusantara Tv
@@ -159,11 +160,11 @@ https://devds.site/api/indihoy/hls.m3u8?ch=nusantaratv
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indonesiana_big.png" group-title="TV Lokal", Indonesiana Tv
 https://devds.site/api/indihoy/hls.m3u8?ch=indonesiana
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indonesiana_big.png" group-title="TV Lokal", Indonesiana Tv
-https://yip.su/useeindonesiana.m3u
+https://yip.su/useeindonesiana
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tvedukasi_big1.png" group-title="TV Lokal", TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tvedukasi_big1.png" group-title="TV Lokal", TV Edukasi
-https://yip.su/useetvedukasi.m3u
+https://yip.su/useetvedukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w36933799.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_ocha_big.png" group-title="TV Lokal", MOJI
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
